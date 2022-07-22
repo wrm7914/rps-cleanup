@@ -5,6 +5,7 @@
 # use this test:
 #
 
+from pickletools import pybytes_or_str
 from game import winner
 
 def test_winner():
